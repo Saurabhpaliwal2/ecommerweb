@@ -1,0 +1,4502 @@
+[
+  {
+    "id": 1,
+    "name": "Luxe Smartwatch 1",
+    "brand": "Vanguard",
+    "price": 5255,
+    "description": "This Luxe Smartwatch 1 from our Electronics collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Minimalist Sneakers 2",
+    "brand": "UrbanEdge",
+    "price": 31399,
+    "description": "This Minimalist Sneakers 2 from our Footwear collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c2744?w=500&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Modern Painting 3",
+    "brand": "NovaLux",
+    "price": 41865,
+    "description": "This Modern Painting 3 from our Home Decor collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Modern Flash 4",
+    "brand": "Vanguard",
+    "price": 8600,
+    "description": "This Modern Flash 4 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Eco-friendly Projector 5",
+    "brand": "Zenith",
+    "price": 24609,
+    "description": "This Eco-friendly Projector 5 from our Gadgets collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Modern Drone 6",
+    "brand": "Apex",
+    "price": 48911,
+    "description": "This Modern Drone 6 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Eco-friendly Sandals 7",
+    "brand": "Forge",
+    "price": 26994,
+    "description": "This Eco-friendly Sandals 7 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Pro Sneakers 8",
+    "brand": "Zenith",
+    "price": 11336,
+    "description": "This Pro Sneakers 8 from our Footwear collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Luxe Hoodie 9",
+    "brand": "Swift",
+    "price": 4776,
+    "description": "This Luxe Hoodie 9 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Modern Shorts 10",
+    "brand": "NovaLux",
+    "price": 12065,
+    "description": "This Modern Shorts 10 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Premium Headphones 11",
+    "brand": "Forge",
+    "price": 48558,
+    "description": "This Premium Headphones 11 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Premium Powerbank 12",
+    "brand": "Zenith",
+    "price": 40810,
+    "description": "This Premium Powerbank 12 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Eco-friendly Shorts 13",
+    "brand": "Apex",
+    "price": 46179,
+    "description": "This Eco-friendly Shorts 13 from our Apparel collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Classic Tripod 14",
+    "brand": "Lumina",
+    "price": 30340,
+    "description": "This Classic Tripod 14 from our Photography collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Premium Shelf 15",
+    "brand": "Obsidian",
+    "price": 12254,
+    "description": "This Premium Shelf 15 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Premium Hoodie 16",
+    "brand": "Lumina",
+    "price": 14484,
+    "description": "This Premium Hoodie 16 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Minimalist Tablet 17",
+    "brand": "Obsidian",
+    "price": 26869,
+    "description": "This Minimalist Tablet 17 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Ultra VR Headset 18",
+    "brand": "Zenith",
+    "price": 33338,
+    "description": "This Ultra VR Headset 18 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 19,
+    "name": "Elite Shelf 19",
+    "brand": "Obsidian",
+    "price": 17938,
+    "description": "This Elite Shelf 19 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 20,
+    "name": "Eco-friendly Speaker 20",
+    "brand": "UrbanEdge",
+    "price": 2458,
+    "description": "This Eco-friendly Speaker 20 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 21,
+    "name": "Ultra Speaker 21",
+    "brand": "Vanguard",
+    "price": 44368,
+    "description": "This Ultra Speaker 21 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 22,
+    "name": "Pro Shelf 22",
+    "brand": "Zenith",
+    "price": 8181,
+    "description": "This Pro Shelf 22 from our Furniture collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 23,
+    "name": "Ultra Smartwatch 23",
+    "brand": "Apex",
+    "price": 30596,
+    "description": "This Ultra Smartwatch 23 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 24,
+    "name": "Smart Sunglasses 24",
+    "brand": "UrbanEdge",
+    "price": 45215,
+    "description": "This Smart Sunglasses 24 from our Accessories collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 25,
+    "name": "Elite Scarve 25",
+    "brand": "NovaLux",
+    "price": 14968,
+    "description": "This Elite Scarve 25 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 26,
+    "name": "Pro Sandals 26",
+    "brand": "Obsidian",
+    "price": 24398,
+    "description": "This Pro Sandals 26 from our Footwear collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 27,
+    "name": "Elite Laptop 27",
+    "brand": "NovaLux",
+    "price": 23608,
+    "description": "This Elite Laptop 27 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 28,
+    "name": "Smart Jeans 28",
+    "brand": "Zenith",
+    "price": 26234,
+    "description": "This Smart Jeans 28 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 29,
+    "name": "Pro Desk 29",
+    "brand": "Forge",
+    "price": 13877,
+    "description": "This Pro Desk 29 from our Furniture collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 30,
+    "name": "Smart Jeans 30",
+    "brand": "Obsidian",
+    "price": 25266,
+    "description": "This Smart Jeans 30 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 31,
+    "name": "Premium Drone 31",
+    "brand": "Swift",
+    "price": 34010,
+    "description": "This Premium Drone 31 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 32,
+    "name": "Luxe Painting 32",
+    "brand": "NovaLux",
+    "price": 45985,
+    "description": "This Luxe Painting 32 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 33,
+    "name": "Classic Slippers 33",
+    "brand": "Lumina",
+    "price": 42732,
+    "description": "This Classic Slippers 33 from our Footwear collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 34,
+    "name": "Ultra Projector 34",
+    "brand": "Swift",
+    "price": 43720,
+    "description": "This Ultra Projector 34 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=500&q=80"
+  },
+  {
+    "id": 35,
+    "name": "Pro Jeans 35",
+    "brand": "Forge",
+    "price": 9687,
+    "description": "This Pro Jeans 35 from our Apparel collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 36,
+    "name": "Modern Speaker 36",
+    "brand": "Zenith",
+    "price": 45347,
+    "description": "This Modern Speaker 36 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 37,
+    "name": "Pro Flash 37",
+    "brand": "Lumina",
+    "price": 47252,
+    "description": "This Pro Flash 37 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 38,
+    "name": "Eco-friendly Sneakers 38",
+    "brand": "Echo",
+    "price": 16343,
+    "description": "This Eco-friendly Sneakers 38 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 39,
+    "name": "Eco-friendly Candle 39",
+    "brand": "Obsidian",
+    "price": 24239,
+    "description": "This Eco-friendly Candle 39 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 40,
+    "name": "Premium Powerbank 40",
+    "brand": "Swift",
+    "price": 40546,
+    "description": "This Premium Powerbank 40 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 41,
+    "name": "Premium Gimbal 41",
+    "brand": "Apex",
+    "price": 23237,
+    "description": "This Premium Gimbal 41 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 42,
+    "name": "Eco-friendly Tripod 42",
+    "brand": "Apex",
+    "price": 20480,
+    "description": "This Eco-friendly Tripod 42 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 43,
+    "name": "Premium Chair 43",
+    "brand": "Forge",
+    "price": 40190,
+    "description": "This Premium Chair 43 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 44,
+    "name": "Elite Candle 44",
+    "brand": "Echo",
+    "price": 23459,
+    "description": "This Elite Candle 44 from our Home Decor collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 45,
+    "name": "Ultra Camera 45",
+    "brand": "Vanguard",
+    "price": 14234,
+    "description": "This Ultra Camera 45 from our Photography collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 46,
+    "name": "Smart Tripod 46",
+    "brand": "Vanguard",
+    "price": 30230,
+    "description": "This Smart Tripod 46 from our Photography collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 47,
+    "name": "Eco-friendly Tripod 47",
+    "brand": "NovaLux",
+    "price": 14571,
+    "description": "This Eco-friendly Tripod 47 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 48,
+    "name": "Modern Projector 48",
+    "brand": "Apex",
+    "price": 37790,
+    "description": "This Modern Projector 48 from our Gadgets collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 49,
+    "name": "Classic Laptop 49",
+    "brand": "NovaLux",
+    "price": 19402,
+    "description": "This Classic Laptop 49 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 50,
+    "name": "Minimalist Running Shoes 50",
+    "brand": "Lumina",
+    "price": 26171,
+    "description": "This Minimalist Running Shoes 50 from our Footwear collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 51,
+    "name": "Eco-friendly Formal Shoes 51",
+    "brand": "Echo",
+    "price": 18784,
+    "description": "This Eco-friendly Formal Shoes 51 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 52,
+    "name": "Eco-friendly Formal Shoes 52",
+    "brand": "Swift",
+    "price": 11478,
+    "description": "This Eco-friendly Formal Shoes 52 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 53,
+    "name": "Minimalist Scarve 53",
+    "brand": "Zenith",
+    "price": 28369,
+    "description": "This Minimalist Scarve 53 from our Accessories collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 54,
+    "name": "Smart Console 54",
+    "brand": "Apex",
+    "price": 49226,
+    "description": "This Smart Console 54 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 55,
+    "name": "Ultra Console 55",
+    "brand": "Forge",
+    "price": 19766,
+    "description": "This Ultra Console 55 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 56,
+    "name": "Classic Lens 56",
+    "brand": "Echo",
+    "price": 29560,
+    "description": "This Classic Lens 56 from our Photography collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 57,
+    "name": "Modern Clock 57",
+    "brand": "Swift",
+    "price": 38669,
+    "description": "This Modern Clock 57 from our Home Decor collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 58,
+    "name": "Premium Sandals 58",
+    "brand": "Vanguard",
+    "price": 30514,
+    "description": "This Premium Sandals 58 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 59,
+    "name": "Classic Gimbal 59",
+    "brand": "Echo",
+    "price": 20488,
+    "description": "This Classic Gimbal 59 from our Photography collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 60,
+    "name": "Ultra Painting 60",
+    "brand": "NovaLux",
+    "price": 30810,
+    "description": "This Ultra Painting 60 from our Home Decor collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 61,
+    "name": "Luxe Candle 61",
+    "brand": "Echo",
+    "price": 8340,
+    "description": "This Luxe Candle 61 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 62,
+    "name": "Premium Rug 62",
+    "brand": "Obsidian",
+    "price": 41452,
+    "description": "This Premium Rug 62 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 63,
+    "name": "Modern Tablet 63",
+    "brand": "NovaLux",
+    "price": 4078,
+    "description": "This Modern Tablet 63 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 64,
+    "name": "Elite Boots 64",
+    "brand": "Echo",
+    "price": 11899,
+    "description": "This Elite Boots 64 from our Footwear collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 65,
+    "name": "Pro Belt 65",
+    "brand": "Vanguard",
+    "price": 4404,
+    "description": "This Pro Belt 65 from our Accessories collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 66,
+    "name": "Ultra Speaker 66",
+    "brand": "Obsidian",
+    "price": 28982,
+    "description": "This Ultra Speaker 66 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 67,
+    "name": "Modern Jeans 67",
+    "brand": "Vanguard",
+    "price": 29617,
+    "description": "This Modern Jeans 67 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 68,
+    "name": "Modern Lens 68",
+    "brand": "Vanguard",
+    "price": 37636,
+    "description": "This Modern Lens 68 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 69,
+    "name": "Minimalist Watch 69",
+    "brand": "Vanguard",
+    "price": 30508,
+    "description": "This Minimalist Watch 69 from our Accessories collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 70,
+    "name": "Premium Rug 70",
+    "brand": "Zenith",
+    "price": 26995,
+    "description": "This Premium Rug 70 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 71,
+    "name": "Modern Flash 71",
+    "brand": "UrbanEdge",
+    "price": 45594,
+    "description": "This Modern Flash 71 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 72,
+    "name": "Smart Smartwatch 72",
+    "brand": "Apex",
+    "price": 25747,
+    "description": "This Smart Smartwatch 72 from our Electronics collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 73,
+    "name": "Premium Gimbal 73",
+    "brand": "Obsidian",
+    "price": 16300,
+    "description": "This Premium Gimbal 73 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 74,
+    "name": "Elite VR Headset 74",
+    "brand": "Forge",
+    "price": 28610,
+    "description": "This Elite VR Headset 74 from our Gadgets collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 75,
+    "name": "Premium Lens 75",
+    "brand": "NovaLux",
+    "price": 29729,
+    "description": "This Premium Lens 75 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 76,
+    "name": "Ultra E-reader 76",
+    "brand": "Obsidian",
+    "price": 30732,
+    "description": "This Ultra E-reader 76 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 77,
+    "name": "Luxe Lamp 77",
+    "brand": "Obsidian",
+    "price": 38149,
+    "description": "This Luxe Lamp 77 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 78,
+    "name": "Smart Smartwatch 78",
+    "brand": "NovaLux",
+    "price": 37234,
+    "description": "This Smart Smartwatch 78 from our Electronics collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 79,
+    "name": "Luxe Candle 79",
+    "brand": "Apex",
+    "price": 17226,
+    "description": "This Luxe Candle 79 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 80,
+    "name": "Pro Running Shoes 80",
+    "brand": "Forge",
+    "price": 45986,
+    "description": "This Pro Running Shoes 80 from our Footwear collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 81,
+    "name": "Luxe Sandals 81",
+    "brand": "Swift",
+    "price": 41634,
+    "description": "This Luxe Sandals 81 from our Footwear collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 82,
+    "name": "Classic Projector 82",
+    "brand": "Vanguard",
+    "price": 22080,
+    "description": "This Classic Projector 82 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 83,
+    "name": "Minimalist Rug 83",
+    "brand": "Forge",
+    "price": 25575,
+    "description": "This Minimalist Rug 83 from our Home Decor collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 84,
+    "name": "Modern Desk 84",
+    "brand": "Lumina",
+    "price": 26347,
+    "description": "This Modern Desk 84 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 85,
+    "name": "Luxe Sofa 85",
+    "brand": "Lumina",
+    "price": 31796,
+    "description": "This Luxe Sofa 85 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 86,
+    "name": "Modern Desk 86",
+    "brand": "Zenith",
+    "price": 5972,
+    "description": "This Modern Desk 86 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 87,
+    "name": "Classic Jacket 87",
+    "brand": "Apex",
+    "price": 33205,
+    "description": "This Classic Jacket 87 from our Apparel collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 88,
+    "name": "Classic Formal Shoes 88",
+    "brand": "Vanguard",
+    "price": 3066,
+    "description": "This Classic Formal Shoes 88 from our Footwear collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&q=80"
+  },
+  {
+    "id": 89,
+    "name": "Eco-friendly Desk 89",
+    "brand": "Apex",
+    "price": 46581,
+    "description": "This Eco-friendly Desk 89 from our Furniture collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 90,
+    "name": "Classic Wallet 90",
+    "brand": "Vanguard",
+    "price": 45646,
+    "description": "This Classic Wallet 90 from our Accessories collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 91,
+    "name": "Luxe Rug 91",
+    "brand": "Swift",
+    "price": 22765,
+    "description": "This Luxe Rug 91 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 92,
+    "name": "Premium Tripod 92",
+    "brand": "Vanguard",
+    "price": 48740,
+    "description": "This Premium Tripod 92 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 93,
+    "name": "Pro VR Headset 93",
+    "brand": "Lumina",
+    "price": 27280,
+    "description": "This Pro VR Headset 93 from our Gadgets collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 94,
+    "name": "Premium Jacket 94",
+    "brand": "Apex",
+    "price": 18871,
+    "description": "This Premium Jacket 94 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 95,
+    "name": "Premium Belt 95",
+    "brand": "NovaLux",
+    "price": 22016,
+    "description": "This Premium Belt 95 from our Accessories collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 96,
+    "name": "Classic Vase 96",
+    "brand": "Swift",
+    "price": 20197,
+    "description": "This Classic Vase 96 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 97,
+    "name": "Smart Painting 97",
+    "brand": "Swift",
+    "price": 33513,
+    "description": "This Smart Painting 97 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 98,
+    "name": "Premium Projector 98",
+    "brand": "UrbanEdge",
+    "price": 44684,
+    "description": "This Premium Projector 98 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 99,
+    "name": "Elite Sunglasses 99",
+    "brand": "Forge",
+    "price": 44296,
+    "description": "This Elite Sunglasses 99 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 100,
+    "name": "Pro Powerbank 100",
+    "brand": "NovaLux",
+    "price": 22723,
+    "description": "This Pro Powerbank 100 from our Electronics collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 101,
+    "name": "Luxe Shorts 101",
+    "brand": "Forge",
+    "price": 27245,
+    "description": "This Luxe Shorts 101 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 102,
+    "name": "Modern Camera 102",
+    "brand": "Zenith",
+    "price": 22995,
+    "description": "This Modern Camera 102 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 103,
+    "name": "Luxe Powerbank 103",
+    "brand": "Obsidian",
+    "price": 11667,
+    "description": "This Luxe Powerbank 103 from our Electronics collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 104,
+    "name": "Eco-friendly Drone 104",
+    "brand": "Obsidian",
+    "price": 20014,
+    "description": "This Eco-friendly Drone 104 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 105,
+    "name": "Luxe Lamp 105",
+    "brand": "Forge",
+    "price": 23712,
+    "description": "This Luxe Lamp 105 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 106,
+    "name": "Pro Painting 106",
+    "brand": "Echo",
+    "price": 15464,
+    "description": "This Pro Painting 106 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 107,
+    "name": "Eco-friendly Desk 107",
+    "brand": "Lumina",
+    "price": 26438,
+    "description": "This Eco-friendly Desk 107 from our Furniture collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 108,
+    "name": "Luxe Jacket 108",
+    "brand": "Vanguard",
+    "price": 17346,
+    "description": "This Luxe Jacket 108 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 109,
+    "name": "Elite Painting 109",
+    "brand": "Lumina",
+    "price": 23280,
+    "description": "This Elite Painting 109 from our Home Decor collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 110,
+    "name": "Luxe Backpack 110",
+    "brand": "Obsidian",
+    "price": 29050,
+    "description": "This Luxe Backpack 110 from our Accessories collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 111,
+    "name": "Minimalist Speaker 111",
+    "brand": "Lumina",
+    "price": 31985,
+    "description": "This Minimalist Speaker 111 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 112,
+    "name": "Classic Lens 112",
+    "brand": "Swift",
+    "price": 20475,
+    "description": "This Classic Lens 112 from our Photography collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 113,
+    "name": "Luxe Painting 113",
+    "brand": "Zenith",
+    "price": 45165,
+    "description": "This Luxe Painting 113 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 114,
+    "name": "Minimalist Tripod 114",
+    "brand": "Vanguard",
+    "price": 31131,
+    "description": "This Minimalist Tripod 114 from our Photography collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 115,
+    "name": "Elite Canvas Shoes 115",
+    "brand": "Forge",
+    "price": 2009,
+    "description": "This Elite Canvas Shoes 115 from our Footwear collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 116,
+    "name": "Ultra Vase 116",
+    "brand": "Obsidian",
+    "price": 11826,
+    "description": "This Ultra Vase 116 from our Home Decor collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 117,
+    "name": "Classic Jacket 117",
+    "brand": "Obsidian",
+    "price": 23623,
+    "description": "This Classic Jacket 117 from our Apparel collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 118,
+    "name": "Pro Chair 118",
+    "brand": "Obsidian",
+    "price": 24138,
+    "description": "This Pro Chair 118 from our Furniture collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 119,
+    "name": "Smart Hoodie 119",
+    "brand": "Forge",
+    "price": 39539,
+    "description": "This Smart Hoodie 119 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 120,
+    "name": "Elite Desk 120",
+    "brand": "Obsidian",
+    "price": 20324,
+    "description": "This Elite Desk 120 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 121,
+    "name": "Modern Tablet 121",
+    "brand": "Swift",
+    "price": 22097,
+    "description": "This Modern Tablet 121 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 122,
+    "name": "Modern Laptop 122",
+    "brand": "Lumina",
+    "price": 13153,
+    "description": "This Modern Laptop 122 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 123,
+    "name": "Elite Smartwatch 123",
+    "brand": "Apex",
+    "price": 28304,
+    "description": "This Elite Smartwatch 123 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 124,
+    "name": "Luxe Table 124",
+    "brand": "Swift",
+    "price": 13964,
+    "description": "This Luxe Table 124 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 125,
+    "name": "Minimalist Slippers 125",
+    "brand": "Lumina",
+    "price": 2160,
+    "description": "This Minimalist Slippers 125 from our Footwear collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&q=80"
+  },
+  {
+    "id": 126,
+    "name": "Ultra Tablet 126",
+    "brand": "Vanguard",
+    "price": 26788,
+    "description": "This Ultra Tablet 126 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 127,
+    "name": "Luxe Gimbal 127",
+    "brand": "Echo",
+    "price": 41284,
+    "description": "This Luxe Gimbal 127 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 128,
+    "name": "Pro Sunglasses 128",
+    "brand": "NovaLux",
+    "price": 40165,
+    "description": "This Pro Sunglasses 128 from our Accessories collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 129,
+    "name": "Classic Shelf 129",
+    "brand": "Swift",
+    "price": 32936,
+    "description": "This Classic Shelf 129 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 130,
+    "name": "Premium Console 130",
+    "brand": "Zenith",
+    "price": 47414,
+    "description": "This Premium Console 130 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 131,
+    "name": "Smart Lamp 131",
+    "brand": "Swift",
+    "price": 22198,
+    "description": "This Smart Lamp 131 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 132,
+    "name": "Pro Jacket 132",
+    "brand": "Apex",
+    "price": 3446,
+    "description": "This Pro Jacket 132 from our Apparel collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 133,
+    "name": "Modern Drone 133",
+    "brand": "NovaLux",
+    "price": 45979,
+    "description": "This Modern Drone 133 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 134,
+    "name": "Minimalist E-reader 134",
+    "brand": "Echo",
+    "price": 2008,
+    "description": "This Minimalist E-reader 134 from our Gadgets collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=500&q=80"
+  },
+  {
+    "id": 135,
+    "name": "Minimalist Boots 135",
+    "brand": "Swift",
+    "price": 10190,
+    "description": "This Minimalist Boots 135 from our Footwear collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c2744?w=500&q=80"
+  },
+  {
+    "id": 136,
+    "name": "Ultra Shorts 136",
+    "brand": "Forge",
+    "price": 14063,
+    "description": "This Ultra Shorts 136 from our Apparel collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 137,
+    "name": "Minimalist Chair 137",
+    "brand": "Forge",
+    "price": 21325,
+    "description": "This Minimalist Chair 137 from our Furniture collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 138,
+    "name": "Classic VR Headset 138",
+    "brand": "Swift",
+    "price": 23047,
+    "description": "This Classic VR Headset 138 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 139,
+    "name": "Premium Drone 139",
+    "brand": "Zenith",
+    "price": 20118,
+    "description": "This Premium Drone 139 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 140,
+    "name": "Ultra Drone 140",
+    "brand": "NovaLux",
+    "price": 31763,
+    "description": "This Ultra Drone 140 from our Photography collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 141,
+    "name": "Pro Speaker 141",
+    "brand": "Echo",
+    "price": 39279,
+    "description": "This Pro Speaker 141 from our Electronics collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 142,
+    "name": "Ultra Running Shoes 142",
+    "brand": "Vanguard",
+    "price": 33976,
+    "description": "This Ultra Running Shoes 142 from our Footwear collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&q=80"
+  },
+  {
+    "id": 143,
+    "name": "Luxe VR Headset 143",
+    "brand": "UrbanEdge",
+    "price": 42620,
+    "description": "This Luxe VR Headset 143 from our Gadgets collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 144,
+    "name": "Classic Mirror 144",
+    "brand": "Forge",
+    "price": 42408,
+    "description": "This Classic Mirror 144 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 145,
+    "name": "Elite Powerbank 145",
+    "brand": "Vanguard",
+    "price": 27568,
+    "description": "This Elite Powerbank 145 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 146,
+    "name": "Modern Hoodie 146",
+    "brand": "Obsidian",
+    "price": 30844,
+    "description": "This Modern Hoodie 146 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 147,
+    "name": "Premium Boots 147",
+    "brand": "Forge",
+    "price": 47471,
+    "description": "This Premium Boots 147 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&q=80"
+  },
+  {
+    "id": 148,
+    "name": "Smart Projector 148",
+    "brand": "Lumina",
+    "price": 12735,
+    "description": "This Smart Projector 148 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 149,
+    "name": "Smart Tripod 149",
+    "brand": "UrbanEdge",
+    "price": 11369,
+    "description": "This Smart Tripod 149 from our Photography collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 150,
+    "name": "Eco-friendly E-reader 150",
+    "brand": "Apex",
+    "price": 14282,
+    "description": "This Eco-friendly E-reader 150 from our Gadgets collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 151,
+    "name": "Eco-friendly Shorts 151",
+    "brand": "Forge",
+    "price": 23391,
+    "description": "This Eco-friendly Shorts 151 from our Apparel collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 152,
+    "name": "Premium Tripod 152",
+    "brand": "Apex",
+    "price": 18444,
+    "description": "This Premium Tripod 152 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 153,
+    "name": "Modern Painting 153",
+    "brand": "Obsidian",
+    "price": 23482,
+    "description": "This Modern Painting 153 from our Home Decor collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 154,
+    "name": "Ultra Sofa 154",
+    "brand": "Swift",
+    "price": 23711,
+    "description": "This Ultra Sofa 154 from our Furniture collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 155,
+    "name": "Minimalist Powerbank 155",
+    "brand": "NovaLux",
+    "price": 7857,
+    "description": "This Minimalist Powerbank 155 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 156,
+    "name": "Classic Laptop 156",
+    "brand": "Vanguard",
+    "price": 7873,
+    "description": "This Classic Laptop 156 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 157,
+    "name": "Smart Wallet 157",
+    "brand": "Zenith",
+    "price": 45105,
+    "description": "This Smart Wallet 157 from our Accessories collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 158,
+    "name": "Premium Drone 158",
+    "brand": "NovaLux",
+    "price": 30217,
+    "description": "This Premium Drone 158 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 159,
+    "name": "Classic Wallet 159",
+    "brand": "Obsidian",
+    "price": 21810,
+    "description": "This Classic Wallet 159 from our Accessories collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 160,
+    "name": "Smart Running Shoes 160",
+    "brand": "Apex",
+    "price": 25327,
+    "description": "This Smart Running Shoes 160 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&q=80"
+  },
+  {
+    "id": 161,
+    "name": "Luxe Wallet 161",
+    "brand": "Vanguard",
+    "price": 27407,
+    "description": "This Luxe Wallet 161 from our Accessories collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 162,
+    "name": "Modern Heels 162",
+    "brand": "Swift",
+    "price": 38248,
+    "description": "This Modern Heels 162 from our Footwear collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 163,
+    "name": "Ultra Smartwatch 163",
+    "brand": "Lumina",
+    "price": 12539,
+    "description": "This Ultra Smartwatch 163 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 164,
+    "name": "Classic Shelf 164",
+    "brand": "Swift",
+    "price": 47219,
+    "description": "This Classic Shelf 164 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 165,
+    "name": "Classic Projector 165",
+    "brand": "UrbanEdge",
+    "price": 2610,
+    "description": "This Classic Projector 165 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=500&q=80"
+  },
+  {
+    "id": 166,
+    "name": "Modern Sofa 166",
+    "brand": "NovaLux",
+    "price": 36392,
+    "description": "This Modern Sofa 166 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 167,
+    "name": "Modern Jeans 167",
+    "brand": "Apex",
+    "price": 35087,
+    "description": "This Modern Jeans 167 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 168,
+    "name": "Elite VR Headset 168",
+    "brand": "Obsidian",
+    "price": 45334,
+    "description": "This Elite VR Headset 168 from our Gadgets collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 169,
+    "name": "Ultra Running Shoes 169",
+    "brand": "Apex",
+    "price": 2937,
+    "description": "This Ultra Running Shoes 169 from our Footwear collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&q=80"
+  },
+  {
+    "id": 170,
+    "name": "Smart Mirror 170",
+    "brand": "Zenith",
+    "price": 10148,
+    "description": "This Smart Mirror 170 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 171,
+    "name": "Pro Candle 171",
+    "brand": "Zenith",
+    "price": 27212,
+    "description": "This Pro Candle 171 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 172,
+    "name": "Modern Mirror 172",
+    "brand": "Lumina",
+    "price": 10769,
+    "description": "This Modern Mirror 172 from our Home Decor collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 173,
+    "name": "Modern Lens 173",
+    "brand": "Obsidian",
+    "price": 46091,
+    "description": "This Modern Lens 173 from our Photography collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 174,
+    "name": "Minimalist Sweater 174",
+    "brand": "Zenith",
+    "price": 11585,
+    "description": "This Minimalist Sweater 174 from our Apparel collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 175,
+    "name": "Luxe Laptop 175",
+    "brand": "Lumina",
+    "price": 11344,
+    "description": "This Luxe Laptop 175 from our Electronics collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 176,
+    "name": "Modern Wallet 176",
+    "brand": "Apex",
+    "price": 8331,
+    "description": "This Modern Wallet 176 from our Accessories collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 177,
+    "name": "Pro Drone 177",
+    "brand": "Swift",
+    "price": 11154,
+    "description": "This Pro Drone 177 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 178,
+    "name": "Classic Painting 178",
+    "brand": "Lumina",
+    "price": 37951,
+    "description": "This Classic Painting 178 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 179,
+    "name": "Smart T-Shirt 179",
+    "brand": "Obsidian",
+    "price": 49462,
+    "description": "This Smart T-Shirt 179 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 180,
+    "name": "Smart E-reader 180",
+    "brand": "UrbanEdge",
+    "price": 36491,
+    "description": "This Smart E-reader 180 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 181,
+    "name": "Modern Speaker 181",
+    "brand": "UrbanEdge",
+    "price": 13785,
+    "description": "This Modern Speaker 181 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 182,
+    "name": "Smart Gimbal 182",
+    "brand": "Echo",
+    "price": 34102,
+    "description": "This Smart Gimbal 182 from our Photography collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 183,
+    "name": "Luxe Tripod 183",
+    "brand": "Lumina",
+    "price": 6102,
+    "description": "This Luxe Tripod 183 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 184,
+    "name": "Premium Projector 184",
+    "brand": "Zenith",
+    "price": 14591,
+    "description": "This Premium Projector 184 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 185,
+    "name": "Elite Rug 185",
+    "brand": "Lumina",
+    "price": 36212,
+    "description": "This Elite Rug 185 from our Home Decor collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 186,
+    "name": "Premium Flash 186",
+    "brand": "Apex",
+    "price": 2286,
+    "description": "This Premium Flash 186 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 187,
+    "name": "Smart E-reader 187",
+    "brand": "Vanguard",
+    "price": 32145,
+    "description": "This Smart E-reader 187 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=500&q=80"
+  },
+  {
+    "id": 188,
+    "name": "Eco-friendly Headphones 188",
+    "brand": "NovaLux",
+    "price": 41197,
+    "description": "This Eco-friendly Headphones 188 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 189,
+    "name": "Ultra VR Headset 189",
+    "brand": "Swift",
+    "price": 41922,
+    "description": "This Ultra VR Headset 189 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 190,
+    "name": "Smart Laptop 190",
+    "brand": "Swift",
+    "price": 9078,
+    "description": "This Smart Laptop 190 from our Electronics collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 191,
+    "name": "Elite Shorts 191",
+    "brand": "Obsidian",
+    "price": 24580,
+    "description": "This Elite Shorts 191 from our Apparel collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 192,
+    "name": "Premium Projector 192",
+    "brand": "Zenith",
+    "price": 30748,
+    "description": "This Premium Projector 192 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&q=80"
+  },
+  {
+    "id": 193,
+    "name": "Premium Rug 193",
+    "brand": "NovaLux",
+    "price": 46145,
+    "description": "This Premium Rug 193 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 194,
+    "name": "Pro Drone 194",
+    "brand": "Zenith",
+    "price": 35773,
+    "description": "This Pro Drone 194 from our Gadgets collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&q=80"
+  },
+  {
+    "id": 195,
+    "name": "Premium Jeans 195",
+    "brand": "Obsidian",
+    "price": 31053,
+    "description": "This Premium Jeans 195 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 196,
+    "name": "Smart Wallet 196",
+    "brand": "Zenith",
+    "price": 9396,
+    "description": "This Smart Wallet 196 from our Accessories collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 197,
+    "name": "Eco-friendly Powerbank 197",
+    "brand": "UrbanEdge",
+    "price": 46164,
+    "description": "This Eco-friendly Powerbank 197 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 198,
+    "name": "Elite Sofa 198",
+    "brand": "Echo",
+    "price": 13597,
+    "description": "This Elite Sofa 198 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 199,
+    "name": "Eco-friendly Painting 199",
+    "brand": "Vanguard",
+    "price": 25570,
+    "description": "This Eco-friendly Painting 199 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 200,
+    "name": "Classic Vase 200",
+    "brand": "Lumina",
+    "price": 15290,
+    "description": "This Classic Vase 200 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 201,
+    "name": "Premium Drone 201",
+    "brand": "UrbanEdge",
+    "price": 18514,
+    "description": "This Premium Drone 201 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 202,
+    "name": "Elite Smartwatch 202",
+    "brand": "Apex",
+    "price": 8468,
+    "description": "This Elite Smartwatch 202 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 203,
+    "name": "Smart Drone 203",
+    "brand": "NovaLux",
+    "price": 34251,
+    "description": "This Smart Drone 203 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=500&q=80"
+  },
+  {
+    "id": 204,
+    "name": "Ultra Mirror 204",
+    "brand": "Lumina",
+    "price": 1053,
+    "description": "This Ultra Mirror 204 from our Home Decor collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 205,
+    "name": "Elite Shelf 205",
+    "brand": "Lumina",
+    "price": 18007,
+    "description": "This Elite Shelf 205 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 206,
+    "name": "Premium Sofa 206",
+    "brand": "Obsidian",
+    "price": 9776,
+    "description": "This Premium Sofa 206 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 207,
+    "name": "Modern Shorts 207",
+    "brand": "UrbanEdge",
+    "price": 44825,
+    "description": "This Modern Shorts 207 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 208,
+    "name": "Ultra Camera 208",
+    "brand": "Obsidian",
+    "price": 11660,
+    "description": "This Ultra Camera 208 from our Photography collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 209,
+    "name": "Ultra Projector 209",
+    "brand": "Swift",
+    "price": 37303,
+    "description": "This Ultra Projector 209 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 210,
+    "name": "Smart Jeans 210",
+    "brand": "Lumina",
+    "price": 49045,
+    "description": "This Smart Jeans 210 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 211,
+    "name": "Classic Speaker 211",
+    "brand": "NovaLux",
+    "price": 26879,
+    "description": "This Classic Speaker 211 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 212,
+    "name": "Modern Powerbank 212",
+    "brand": "Lumina",
+    "price": 5463,
+    "description": "This Modern Powerbank 212 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 213,
+    "name": "Smart Powerbank 213",
+    "brand": "UrbanEdge",
+    "price": 25450,
+    "description": "This Smart Powerbank 213 from our Electronics collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 214,
+    "name": "Classic Rug 214",
+    "brand": "Lumina",
+    "price": 25533,
+    "description": "This Classic Rug 214 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 215,
+    "name": "Minimalist Console 215",
+    "brand": "Zenith",
+    "price": 12211,
+    "description": "This Minimalist Console 215 from our Gadgets collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 216,
+    "name": "Smart Candle 216",
+    "brand": "NovaLux",
+    "price": 15982,
+    "description": "This Smart Candle 216 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 217,
+    "name": "Ultra Belt 217",
+    "brand": "Lumina",
+    "price": 21402,
+    "description": "This Ultra Belt 217 from our Accessories collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 218,
+    "name": "Modern Sneakers 218",
+    "brand": "Zenith",
+    "price": 34866,
+    "description": "This Modern Sneakers 218 from our Footwear collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 219,
+    "name": "Ultra Backpack 219",
+    "brand": "Lumina",
+    "price": 10291,
+    "description": "This Ultra Backpack 219 from our Accessories collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 220,
+    "name": "Premium Powerbank 220",
+    "brand": "Apex",
+    "price": 2080,
+    "description": "This Premium Powerbank 220 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 221,
+    "name": "Smart VR Headset 221",
+    "brand": "NovaLux",
+    "price": 13314,
+    "description": "This Smart VR Headset 221 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 222,
+    "name": "Eco-friendly Clock 222",
+    "brand": "Forge",
+    "price": 15117,
+    "description": "This Eco-friendly Clock 222 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 223,
+    "name": "Premium VR Headset 223",
+    "brand": "Swift",
+    "price": 32475,
+    "description": "This Premium VR Headset 223 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 224,
+    "name": "Pro Table 224",
+    "brand": "Echo",
+    "price": 44080,
+    "description": "This Pro Table 224 from our Furniture collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 225,
+    "name": "Pro Heels 225",
+    "brand": "Zenith",
+    "price": 768,
+    "description": "This Pro Heels 225 from our Footwear collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 226,
+    "name": "Minimalist Hoodie 226",
+    "brand": "UrbanEdge",
+    "price": 1137,
+    "description": "This Minimalist Hoodie 226 from our Apparel collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 227,
+    "name": "Minimalist Smartwatch 227",
+    "brand": "Obsidian",
+    "price": 12602,
+    "description": "This Minimalist Smartwatch 227 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 228,
+    "name": "Modern Scarve 228",
+    "brand": "Apex",
+    "price": 47975,
+    "description": "This Modern Scarve 228 from our Accessories collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 229,
+    "name": "Pro VR Headset 229",
+    "brand": "Obsidian",
+    "price": 31951,
+    "description": "This Pro VR Headset 229 from our Gadgets collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 230,
+    "name": "Pro Speaker 230",
+    "brand": "Lumina",
+    "price": 37327,
+    "description": "This Pro Speaker 230 from our Electronics collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 231,
+    "name": "Elite Scarve 231",
+    "brand": "Vanguard",
+    "price": 37031,
+    "description": "This Elite Scarve 231 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 232,
+    "name": "Pro Camera 232",
+    "brand": "Echo",
+    "price": 14080,
+    "description": "This Pro Camera 232 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 233,
+    "name": "Ultra Canvas Shoes 233",
+    "brand": "Vanguard",
+    "price": 20897,
+    "description": "This Ultra Canvas Shoes 233 from our Footwear collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80"
+  },
+  {
+    "id": 234,
+    "name": "Classic Jeans 234",
+    "brand": "UrbanEdge",
+    "price": 16113,
+    "description": "This Classic Jeans 234 from our Apparel collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 235,
+    "name": "Luxe E-reader 235",
+    "brand": "Echo",
+    "price": 41168,
+    "description": "This Luxe E-reader 235 from our Gadgets collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 236,
+    "name": "Classic Backpack 236",
+    "brand": "Lumina",
+    "price": 18099,
+    "description": "This Classic Backpack 236 from our Accessories collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 237,
+    "name": "Minimalist Shelf 237",
+    "brand": "Forge",
+    "price": 12048,
+    "description": "This Minimalist Shelf 237 from our Furniture collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 238,
+    "name": "Smart Drone 238",
+    "brand": "Forge",
+    "price": 11930,
+    "description": "This Smart Drone 238 from our Photography collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 239,
+    "name": "Eco-friendly Tablet 239",
+    "brand": "Obsidian",
+    "price": 24569,
+    "description": "This Eco-friendly Tablet 239 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 240,
+    "name": "Pro Projector 240",
+    "brand": "Echo",
+    "price": 33133,
+    "description": "This Pro Projector 240 from our Gadgets collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&q=80"
+  },
+  {
+    "id": 241,
+    "name": "Ultra Headphones 241",
+    "brand": "Forge",
+    "price": 46249,
+    "description": "This Ultra Headphones 241 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 242,
+    "name": "Luxe Tripod 242",
+    "brand": "Apex",
+    "price": 29753,
+    "description": "This Luxe Tripod 242 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 243,
+    "name": "Ultra Flash 243",
+    "brand": "Forge",
+    "price": 27136,
+    "description": "This Ultra Flash 243 from our Photography collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 244,
+    "name": "Smart Running Shoes 244",
+    "brand": "Forge",
+    "price": 20587,
+    "description": "This Smart Running Shoes 244 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 245,
+    "name": "Luxe Sunglasses 245",
+    "brand": "Echo",
+    "price": 17467,
+    "description": "This Luxe Sunglasses 245 from our Accessories collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 246,
+    "name": "Classic Shelf 246",
+    "brand": "Lumina",
+    "price": 22762,
+    "description": "This Classic Shelf 246 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 247,
+    "name": "Classic E-reader 247",
+    "brand": "UrbanEdge",
+    "price": 43079,
+    "description": "This Classic E-reader 247 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 248,
+    "name": "Eco-friendly Clock 248",
+    "brand": "NovaLux",
+    "price": 24493,
+    "description": "This Eco-friendly Clock 248 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 249,
+    "name": "Pro Gimbal 249",
+    "brand": "Obsidian",
+    "price": 14471,
+    "description": "This Pro Gimbal 249 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 250,
+    "name": "Ultra Shorts 250",
+    "brand": "Forge",
+    "price": 47603,
+    "description": "This Ultra Shorts 250 from our Apparel collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 251,
+    "name": "Smart Jacket 251",
+    "brand": "Apex",
+    "price": 24740,
+    "description": "This Smart Jacket 251 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 252,
+    "name": "Modern VR Headset 252",
+    "brand": "Apex",
+    "price": 34870,
+    "description": "This Modern VR Headset 252 from our Gadgets collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 253,
+    "name": "Minimalist E-reader 253",
+    "brand": "Apex",
+    "price": 24703,
+    "description": "This Minimalist E-reader 253 from our Gadgets collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 254,
+    "name": "Smart Candle 254",
+    "brand": "Swift",
+    "price": 41349,
+    "description": "This Smart Candle 254 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 255,
+    "name": "Classic Shelf 255",
+    "brand": "NovaLux",
+    "price": 2923,
+    "description": "This Classic Shelf 255 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 256,
+    "name": "Modern E-reader 256",
+    "brand": "Apex",
+    "price": 21436,
+    "description": "This Modern E-reader 256 from our Gadgets collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 257,
+    "name": "Modern Speaker 257",
+    "brand": "UrbanEdge",
+    "price": 14607,
+    "description": "This Modern Speaker 257 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 258,
+    "name": "Eco-friendly Lens 258",
+    "brand": "Obsidian",
+    "price": 32633,
+    "description": "This Eco-friendly Lens 258 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 259,
+    "name": "Premium Heels 259",
+    "brand": "Obsidian",
+    "price": 43495,
+    "description": "This Premium Heels 259 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 260,
+    "name": "Eco-friendly Shorts 260",
+    "brand": "Obsidian",
+    "price": 27464,
+    "description": "This Eco-friendly Shorts 260 from our Apparel collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 261,
+    "name": "Pro Sweater 261",
+    "brand": "Vanguard",
+    "price": 30883,
+    "description": "This Pro Sweater 261 from our Apparel collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 262,
+    "name": "Smart Canvas Shoes 262",
+    "brand": "Vanguard",
+    "price": 23136,
+    "description": "This Smart Canvas Shoes 262 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 263,
+    "name": "Smart Clock 263",
+    "brand": "Obsidian",
+    "price": 36641,
+    "description": "This Smart Clock 263 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 264,
+    "name": "Luxe Clock 264",
+    "brand": "Obsidian",
+    "price": 17271,
+    "description": "This Luxe Clock 264 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 265,
+    "name": "Smart Sneakers 265",
+    "brand": "UrbanEdge",
+    "price": 11048,
+    "description": "This Smart Sneakers 265 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 266,
+    "name": "Premium Headphones 266",
+    "brand": "Apex",
+    "price": 21148,
+    "description": "This Premium Headphones 266 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 267,
+    "name": "Luxe Hoodie 267",
+    "brand": "Swift",
+    "price": 38716,
+    "description": "This Luxe Hoodie 267 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 268,
+    "name": "Smart Painting 268",
+    "brand": "Echo",
+    "price": 48013,
+    "description": "This Smart Painting 268 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 269,
+    "name": "Luxe Sweater 269",
+    "brand": "Lumina",
+    "price": 5983,
+    "description": "This Luxe Sweater 269 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 270,
+    "name": "Minimalist Camera 270",
+    "brand": "Zenith",
+    "price": 49347,
+    "description": "This Minimalist Camera 270 from our Photography collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 271,
+    "name": "Eco-friendly Clock 271",
+    "brand": "Echo",
+    "price": 34571,
+    "description": "This Eco-friendly Clock 271 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 272,
+    "name": "Minimalist Belt 272",
+    "brand": "Echo",
+    "price": 32247,
+    "description": "This Minimalist Belt 272 from our Accessories collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 273,
+    "name": "Eco-friendly Painting 273",
+    "brand": "UrbanEdge",
+    "price": 28674,
+    "description": "This Eco-friendly Painting 273 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 274,
+    "name": "Pro Desk 274",
+    "brand": "Apex",
+    "price": 6139,
+    "description": "This Pro Desk 274 from our Furniture collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 275,
+    "name": "Pro Running Shoes 275",
+    "brand": "Echo",
+    "price": 38169,
+    "description": "This Pro Running Shoes 275 from our Footwear collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 276,
+    "name": "Elite Chair 276",
+    "brand": "Obsidian",
+    "price": 18970,
+    "description": "This Elite Chair 276 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 277,
+    "name": "Classic Table 277",
+    "brand": "Echo",
+    "price": 6104,
+    "description": "This Classic Table 277 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 278,
+    "name": "Premium E-reader 278",
+    "brand": "Echo",
+    "price": 9021,
+    "description": "This Premium E-reader 278 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 279,
+    "name": "Luxe Jacket 279",
+    "brand": "NovaLux",
+    "price": 47015,
+    "description": "This Luxe Jacket 279 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 280,
+    "name": "Elite Lens 280",
+    "brand": "Zenith",
+    "price": 23102,
+    "description": "This Elite Lens 280 from our Photography collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 281,
+    "name": "Smart Watch 281",
+    "brand": "UrbanEdge",
+    "price": 41625,
+    "description": "This Smart Watch 281 from our Accessories collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 282,
+    "name": "Modern Sunglasses 282",
+    "brand": "Swift",
+    "price": 9004,
+    "description": "This Modern Sunglasses 282 from our Accessories collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 283,
+    "name": "Premium E-reader 283",
+    "brand": "Zenith",
+    "price": 10350,
+    "description": "This Premium E-reader 283 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&q=80"
+  },
+  {
+    "id": 284,
+    "name": "Classic Drone 284",
+    "brand": "Echo",
+    "price": 4100,
+    "description": "This Classic Drone 284 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 285,
+    "name": "Pro Laptop 285",
+    "brand": "Obsidian",
+    "price": 18744,
+    "description": "This Pro Laptop 285 from our Electronics collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 286,
+    "name": "Pro Painting 286",
+    "brand": "Apex",
+    "price": 33990,
+    "description": "This Pro Painting 286 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 287,
+    "name": "Minimalist Table 287",
+    "brand": "Vanguard",
+    "price": 24867,
+    "description": "This Minimalist Table 287 from our Furniture collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 288,
+    "name": "Eco-friendly Hoodie 288",
+    "brand": "Forge",
+    "price": 24670,
+    "description": "This Eco-friendly Hoodie 288 from our Apparel collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 289,
+    "name": "Ultra Tablet 289",
+    "brand": "Obsidian",
+    "price": 7985,
+    "description": "This Ultra Tablet 289 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 290,
+    "name": "Smart Desk 290",
+    "brand": "Obsidian",
+    "price": 23388,
+    "description": "This Smart Desk 290 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 291,
+    "name": "Smart Desk 291",
+    "brand": "Forge",
+    "price": 10812,
+    "description": "This Smart Desk 291 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 292,
+    "name": "Classic Rug 292",
+    "brand": "Swift",
+    "price": 9383,
+    "description": "This Classic Rug 292 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 293,
+    "name": "Premium Jacket 293",
+    "brand": "Lumina",
+    "price": 45819,
+    "description": "This Premium Jacket 293 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 294,
+    "name": "Elite Heels 294",
+    "brand": "Apex",
+    "price": 30165,
+    "description": "This Elite Heels 294 from our Footwear collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 295,
+    "name": "Eco-friendly Sunglasses 295",
+    "brand": "UrbanEdge",
+    "price": 16863,
+    "description": "This Eco-friendly Sunglasses 295 from our Accessories collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 296,
+    "name": "Pro Backpack 296",
+    "brand": "NovaLux",
+    "price": 4801,
+    "description": "This Pro Backpack 296 from our Accessories collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 297,
+    "name": "Eco-friendly Lamp 297",
+    "brand": "Zenith",
+    "price": 806,
+    "description": "This Eco-friendly Lamp 297 from our Furniture collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 298,
+    "name": "Eco-friendly Headphones 298",
+    "brand": "Swift",
+    "price": 31160,
+    "description": "This Eco-friendly Headphones 298 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 299,
+    "name": "Smart T-Shirt 299",
+    "brand": "Swift",
+    "price": 49846,
+    "description": "This Smart T-Shirt 299 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 300,
+    "name": "Modern Sneakers 300",
+    "brand": "Swift",
+    "price": 20974,
+    "description": "This Modern Sneakers 300 from our Footwear collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&q=80"
+  },
+  {
+    "id": 301,
+    "name": "Elite Tablet 301",
+    "brand": "Obsidian",
+    "price": 14072,
+    "description": "This Elite Tablet 301 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 302,
+    "name": "Smart VR Headset 302",
+    "brand": "NovaLux",
+    "price": 17923,
+    "description": "This Smart VR Headset 302 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 303,
+    "name": "Premium Scarve 303",
+    "brand": "Lumina",
+    "price": 46654,
+    "description": "This Premium Scarve 303 from our Accessories collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 304,
+    "name": "Premium Laptop 304",
+    "brand": "Zenith",
+    "price": 45573,
+    "description": "This Premium Laptop 304 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 305,
+    "name": "Smart Sneakers 305",
+    "brand": "Lumina",
+    "price": 4248,
+    "description": "This Smart Sneakers 305 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 306,
+    "name": "Pro Sofa 306",
+    "brand": "NovaLux",
+    "price": 8170,
+    "description": "This Pro Sofa 306 from our Furniture collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 307,
+    "name": "Eco-friendly Jacket 307",
+    "brand": "Obsidian",
+    "price": 2118,
+    "description": "This Eco-friendly Jacket 307 from our Apparel collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 308,
+    "name": "Elite Watch 308",
+    "brand": "NovaLux",
+    "price": 20771,
+    "description": "This Elite Watch 308 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 309,
+    "name": "Minimalist Smartwatch 309",
+    "brand": "Apex",
+    "price": 5173,
+    "description": "This Minimalist Smartwatch 309 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 310,
+    "name": "Premium Shorts 310",
+    "brand": "Zenith",
+    "price": 23365,
+    "description": "This Premium Shorts 310 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 311,
+    "name": "Eco-friendly Hiking Boots 311",
+    "brand": "Vanguard",
+    "price": 49518,
+    "description": "This Eco-friendly Hiking Boots 311 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&q=80"
+  },
+  {
+    "id": 312,
+    "name": "Premium Formal Shoes 312",
+    "brand": "Zenith",
+    "price": 36745,
+    "description": "This Premium Formal Shoes 312 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 313,
+    "name": "Elite Loafers 313",
+    "brand": "Zenith",
+    "price": 15284,
+    "description": "This Elite Loafers 313 from our Footwear collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 314,
+    "name": "Premium Speaker 314",
+    "brand": "Echo",
+    "price": 782,
+    "description": "This Premium Speaker 314 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 315,
+    "name": "Eco-friendly Drone 315",
+    "brand": "Vanguard",
+    "price": 2311,
+    "description": "This Eco-friendly Drone 315 from our Gadgets collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 316,
+    "name": "Luxe Speaker 316",
+    "brand": "Echo",
+    "price": 23912,
+    "description": "This Luxe Speaker 316 from our Electronics collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 317,
+    "name": "Eco-friendly Powerbank 317",
+    "brand": "Lumina",
+    "price": 5248,
+    "description": "This Eco-friendly Powerbank 317 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 318,
+    "name": "Luxe Console 318",
+    "brand": "Forge",
+    "price": 21383,
+    "description": "This Luxe Console 318 from our Gadgets collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&q=80"
+  },
+  {
+    "id": 319,
+    "name": "Luxe Lamp 319",
+    "brand": "Vanguard",
+    "price": 40558,
+    "description": "This Luxe Lamp 319 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 320,
+    "name": "Luxe Drone 320",
+    "brand": "UrbanEdge",
+    "price": 4747,
+    "description": "This Luxe Drone 320 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 321,
+    "name": "Premium Flash 321",
+    "brand": "Zenith",
+    "price": 46871,
+    "description": "This Premium Flash 321 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 322,
+    "name": "Ultra Sofa 322",
+    "brand": "Vanguard",
+    "price": 37643,
+    "description": "This Ultra Sofa 322 from our Furniture collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 323,
+    "name": "Premium Watch 323",
+    "brand": "Vanguard",
+    "price": 43651,
+    "description": "This Premium Watch 323 from our Accessories collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 324,
+    "name": "Eco-friendly Flash 324",
+    "brand": "UrbanEdge",
+    "price": 35729,
+    "description": "This Eco-friendly Flash 324 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 325,
+    "name": "Luxe Candle 325",
+    "brand": "Obsidian",
+    "price": 42532,
+    "description": "This Luxe Candle 325 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 326,
+    "name": "Premium Painting 326",
+    "brand": "UrbanEdge",
+    "price": 11653,
+    "description": "This Premium Painting 326 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 327,
+    "name": "Smart Sofa 327",
+    "brand": "NovaLux",
+    "price": 11461,
+    "description": "This Smart Sofa 327 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 328,
+    "name": "Elite Wallet 328",
+    "brand": "Obsidian",
+    "price": 46637,
+    "description": "This Elite Wallet 328 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 329,
+    "name": "Pro Console 329",
+    "brand": "Obsidian",
+    "price": 45909,
+    "description": "This Pro Console 329 from our Gadgets collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 330,
+    "name": "Elite Projector 330",
+    "brand": "Obsidian",
+    "price": 47056,
+    "description": "This Elite Projector 330 from our Gadgets collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 331,
+    "name": "Classic Smartwatch 331",
+    "brand": "Zenith",
+    "price": 40176,
+    "description": "This Classic Smartwatch 331 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 332,
+    "name": "Modern Console 332",
+    "brand": "Apex",
+    "price": 37129,
+    "description": "This Modern Console 332 from our Gadgets collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 333,
+    "name": "Modern Sunglasses 333",
+    "brand": "Swift",
+    "price": 17895,
+    "description": "This Modern Sunglasses 333 from our Accessories collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 334,
+    "name": "Eco-friendly Console 334",
+    "brand": "Apex",
+    "price": 40082,
+    "description": "This Eco-friendly Console 334 from our Gadgets collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 335,
+    "name": "Modern Sofa 335",
+    "brand": "Zenith",
+    "price": 41337,
+    "description": "This Modern Sofa 335 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 336,
+    "name": "Smart Lamp 336",
+    "brand": "Forge",
+    "price": 18710,
+    "description": "This Smart Lamp 336 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 337,
+    "name": "Elite Shorts 337",
+    "brand": "UrbanEdge",
+    "price": 24118,
+    "description": "This Elite Shorts 337 from our Apparel collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 338,
+    "name": "Smart Sweater 338",
+    "brand": "Lumina",
+    "price": 16650,
+    "description": "This Smart Sweater 338 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 339,
+    "name": "Smart Smartwatch 339",
+    "brand": "UrbanEdge",
+    "price": 32316,
+    "description": "This Smart Smartwatch 339 from our Electronics collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 340,
+    "name": "Premium Vase 340",
+    "brand": "Apex",
+    "price": 38885,
+    "description": "This Premium Vase 340 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 341,
+    "name": "Elite Speaker 341",
+    "brand": "Swift",
+    "price": 4306,
+    "description": "This Elite Speaker 341 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 342,
+    "name": "Elite Watch 342",
+    "brand": "Swift",
+    "price": 38010,
+    "description": "This Elite Watch 342 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 343,
+    "name": "Modern Sweater 343",
+    "brand": "Zenith",
+    "price": 29630,
+    "description": "This Modern Sweater 343 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 344,
+    "name": "Premium Lens 344",
+    "brand": "Zenith",
+    "price": 48652,
+    "description": "This Premium Lens 344 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 345,
+    "name": "Premium Belt 345",
+    "brand": "Obsidian",
+    "price": 19431,
+    "description": "This Premium Belt 345 from our Accessories collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 346,
+    "name": "Classic Powerbank 346",
+    "brand": "Forge",
+    "price": 40289,
+    "description": "This Classic Powerbank 346 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 347,
+    "name": "Luxe Rug 347",
+    "brand": "Apex",
+    "price": 5265,
+    "description": "This Luxe Rug 347 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 348,
+    "name": "Classic Camera 348",
+    "brand": "Vanguard",
+    "price": 9319,
+    "description": "This Classic Camera 348 from our Photography collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 349,
+    "name": "Premium Sandals 349",
+    "brand": "Zenith",
+    "price": 15571,
+    "description": "This Premium Sandals 349 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80"
+  },
+  {
+    "id": 350,
+    "name": "Eco-friendly Rug 350",
+    "brand": "Apex",
+    "price": 33099,
+    "description": "This Eco-friendly Rug 350 from our Home Decor collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 351,
+    "name": "Premium Sneakers 351",
+    "brand": "UrbanEdge",
+    "price": 22877,
+    "description": "This Premium Sneakers 351 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 352,
+    "name": "Pro Camera 352",
+    "brand": "Swift",
+    "price": 42693,
+    "description": "This Pro Camera 352 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 353,
+    "name": "Modern Shelf 353",
+    "brand": "Forge",
+    "price": 29881,
+    "description": "This Modern Shelf 353 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 354,
+    "name": "Premium Drone 354",
+    "brand": "Forge",
+    "price": 14610,
+    "description": "This Premium Drone 354 from our Photography collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 355,
+    "name": "Minimalist Hoodie 355",
+    "brand": "Vanguard",
+    "price": 29182,
+    "description": "This Minimalist Hoodie 355 from our Apparel collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 356,
+    "name": "Eco-friendly Smartwatch 356",
+    "brand": "Swift",
+    "price": 17622,
+    "description": "This Eco-friendly Smartwatch 356 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 357,
+    "name": "Luxe Jeans 357",
+    "brand": "Obsidian",
+    "price": 36330,
+    "description": "This Luxe Jeans 357 from our Apparel collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 358,
+    "name": "Minimalist T-Shirt 358",
+    "brand": "UrbanEdge",
+    "price": 45123,
+    "description": "This Minimalist T-Shirt 358 from our Apparel collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 359,
+    "name": "Luxe Smartwatch 359",
+    "brand": "UrbanEdge",
+    "price": 37054,
+    "description": "This Luxe Smartwatch 359 from our Electronics collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 360,
+    "name": "Modern E-reader 360",
+    "brand": "Obsidian",
+    "price": 42878,
+    "description": "This Modern E-reader 360 from our Gadgets collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 361,
+    "name": "Minimalist Laptop 361",
+    "brand": "Forge",
+    "price": 20004,
+    "description": "This Minimalist Laptop 361 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 362,
+    "name": "Smart Shorts 362",
+    "brand": "Echo",
+    "price": 38473,
+    "description": "This Smart Shorts 362 from our Apparel collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 363,
+    "name": "Pro Mirror 363",
+    "brand": "UrbanEdge",
+    "price": 37627,
+    "description": "This Pro Mirror 363 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 364,
+    "name": "Ultra Smartwatch 364",
+    "brand": "UrbanEdge",
+    "price": 44404,
+    "description": "This Ultra Smartwatch 364 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 365,
+    "name": "Elite Chair 365",
+    "brand": "Lumina",
+    "price": 2526,
+    "description": "This Elite Chair 365 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 366,
+    "name": "Smart VR Headset 366",
+    "brand": "Lumina",
+    "price": 18905,
+    "description": "This Smart VR Headset 366 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 367,
+    "name": "Modern Chair 367",
+    "brand": "Zenith",
+    "price": 14900,
+    "description": "This Modern Chair 367 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 368,
+    "name": "Ultra T-Shirt 368",
+    "brand": "Echo",
+    "price": 32755,
+    "description": "This Ultra T-Shirt 368 from our Apparel collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 369,
+    "name": "Pro Vase 369",
+    "brand": "Forge",
+    "price": 22418,
+    "description": "This Pro Vase 369 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 370,
+    "name": "Pro Watch 370",
+    "brand": "Forge",
+    "price": 27196,
+    "description": "This Pro Watch 370 from our Accessories collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 371,
+    "name": "Elite Flash 371",
+    "brand": "Vanguard",
+    "price": 10178,
+    "description": "This Elite Flash 371 from our Photography collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 372,
+    "name": "Luxe Painting 372",
+    "brand": "UrbanEdge",
+    "price": 47626,
+    "description": "This Luxe Painting 372 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 373,
+    "name": "Modern Wallet 373",
+    "brand": "NovaLux",
+    "price": 31858,
+    "description": "This Modern Wallet 373 from our Accessories collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 374,
+    "name": "Modern Heels 374",
+    "brand": "Lumina",
+    "price": 28699,
+    "description": "This Modern Heels 374 from our Footwear collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?w=500&q=80"
+  },
+  {
+    "id": 375,
+    "name": "Smart Sandals 375",
+    "brand": "Obsidian",
+    "price": 28874,
+    "description": "This Smart Sandals 375 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&q=80"
+  },
+  {
+    "id": 376,
+    "name": "Elite Painting 376",
+    "brand": "Forge",
+    "price": 15221,
+    "description": "This Elite Painting 376 from our Home Decor collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 377,
+    "name": "Classic Tripod 377",
+    "brand": "Vanguard",
+    "price": 7216,
+    "description": "This Classic Tripod 377 from our Photography collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 378,
+    "name": "Modern Sweater 378",
+    "brand": "Lumina",
+    "price": 20294,
+    "description": "This Modern Sweater 378 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 379,
+    "name": "Smart Mirror 379",
+    "brand": "Zenith",
+    "price": 43930,
+    "description": "This Smart Mirror 379 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 380,
+    "name": "Premium Jeans 380",
+    "brand": "Obsidian",
+    "price": 45869,
+    "description": "This Premium Jeans 380 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 381,
+    "name": "Eco-friendly Loafers 381",
+    "brand": "Echo",
+    "price": 9009,
+    "description": "This Eco-friendly Loafers 381 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&q=80"
+  },
+  {
+    "id": 382,
+    "name": "Classic Shorts 382",
+    "brand": "Forge",
+    "price": 10470,
+    "description": "This Classic Shorts 382 from our Apparel collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 383,
+    "name": "Premium Painting 383",
+    "brand": "Zenith",
+    "price": 3338,
+    "description": "This Premium Painting 383 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 384,
+    "name": "Smart Speaker 384",
+    "brand": "Zenith",
+    "price": 37608,
+    "description": "This Smart Speaker 384 from our Electronics collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 385,
+    "name": "Premium Jacket 385",
+    "brand": "Forge",
+    "price": 5809,
+    "description": "This Premium Jacket 385 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 386,
+    "name": "Ultra Slippers 386",
+    "brand": "Zenith",
+    "price": 30369,
+    "description": "This Ultra Slippers 386 from our Footwear collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80"
+  },
+  {
+    "id": 387,
+    "name": "Modern Tablet 387",
+    "brand": "Lumina",
+    "price": 28860,
+    "description": "This Modern Tablet 387 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 388,
+    "name": "Pro VR Headset 388",
+    "brand": "Zenith",
+    "price": 45091,
+    "description": "This Pro VR Headset 388 from our Gadgets collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 389,
+    "name": "Classic Wallet 389",
+    "brand": "Vanguard",
+    "price": 16411,
+    "description": "This Classic Wallet 389 from our Accessories collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 390,
+    "name": "Eco-friendly Projector 390",
+    "brand": "Apex",
+    "price": 528,
+    "description": "This Eco-friendly Projector 390 from our Gadgets collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 391,
+    "name": "Ultra Projector 391",
+    "brand": "Lumina",
+    "price": 21205,
+    "description": "This Ultra Projector 391 from our Gadgets collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 392,
+    "name": "Modern Smartwatch 392",
+    "brand": "Forge",
+    "price": 36203,
+    "description": "This Modern Smartwatch 392 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 393,
+    "name": "Classic Headphones 393",
+    "brand": "Zenith",
+    "price": 35255,
+    "description": "This Classic Headphones 393 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 394,
+    "name": "Luxe Powerbank 394",
+    "brand": "Obsidian",
+    "price": 29694,
+    "description": "This Luxe Powerbank 394 from our Electronics collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 395,
+    "name": "Minimalist Mirror 395",
+    "brand": "NovaLux",
+    "price": 26255,
+    "description": "This Minimalist Mirror 395 from our Home Decor collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 396,
+    "name": "Pro Drone 396",
+    "brand": "Zenith",
+    "price": 20911,
+    "description": "This Pro Drone 396 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 397,
+    "name": "Modern Drone 397",
+    "brand": "UrbanEdge",
+    "price": 29301,
+    "description": "This Modern Drone 397 from our Gadgets collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 398,
+    "name": "Pro Sandals 398",
+    "brand": "Zenith",
+    "price": 28439,
+    "description": "This Pro Sandals 398 from our Footwear collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c2744?w=500&q=80"
+  },
+  {
+    "id": 399,
+    "name": "Elite Console 399",
+    "brand": "Lumina",
+    "price": 27607,
+    "description": "This Elite Console 399 from our Gadgets collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 400,
+    "name": "Smart Chair 400",
+    "brand": "Apex",
+    "price": 29313,
+    "description": "This Smart Chair 400 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 401,
+    "name": "Pro Sweater 401",
+    "brand": "Forge",
+    "price": 43968,
+    "description": "This Pro Sweater 401 from our Apparel collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 402,
+    "name": "Elite Mirror 402",
+    "brand": "Zenith",
+    "price": 27457,
+    "description": "This Elite Mirror 402 from our Home Decor collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 403,
+    "name": "Eco-friendly Watch 403",
+    "brand": "UrbanEdge",
+    "price": 28020,
+    "description": "This Eco-friendly Watch 403 from our Accessories collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 404,
+    "name": "Eco-friendly Gimbal 404",
+    "brand": "Vanguard",
+    "price": 30908,
+    "description": "This Eco-friendly Gimbal 404 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 405,
+    "name": "Minimalist Heels 405",
+    "brand": "Echo",
+    "price": 47649,
+    "description": "This Minimalist Heels 405 from our Footwear collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c2744?w=500&q=80"
+  },
+  {
+    "id": 406,
+    "name": "Elite Tripod 406",
+    "brand": "Echo",
+    "price": 19452,
+    "description": "This Elite Tripod 406 from our Photography collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 407,
+    "name": "Smart E-reader 407",
+    "brand": "Zenith",
+    "price": 28854,
+    "description": "This Smart E-reader 407 from our Gadgets collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 408,
+    "name": "Classic Sunglasses 408",
+    "brand": "Vanguard",
+    "price": 34717,
+    "description": "This Classic Sunglasses 408 from our Accessories collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 409,
+    "name": "Ultra Table 409",
+    "brand": "NovaLux",
+    "price": 6045,
+    "description": "This Ultra Table 409 from our Furniture collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 410,
+    "name": "Classic Sweater 410",
+    "brand": "Forge",
+    "price": 13517,
+    "description": "This Classic Sweater 410 from our Apparel collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 411,
+    "name": "Smart Painting 411",
+    "brand": "Zenith",
+    "price": 12030,
+    "description": "This Smart Painting 411 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 412,
+    "name": "Ultra Scarve 412",
+    "brand": "Obsidian",
+    "price": 34969,
+    "description": "This Ultra Scarve 412 from our Accessories collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 413,
+    "name": "Luxe Sofa 413",
+    "brand": "Forge",
+    "price": 32432,
+    "description": "This Luxe Sofa 413 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 414,
+    "name": "Classic Desk 414",
+    "brand": "Echo",
+    "price": 11319,
+    "description": "This Classic Desk 414 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 415,
+    "name": "Eco-friendly Boots 415",
+    "brand": "Vanguard",
+    "price": 31288,
+    "description": "This Eco-friendly Boots 415 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c2744?w=500&q=80"
+  },
+  {
+    "id": 416,
+    "name": "Modern Backpack 416",
+    "brand": "Lumina",
+    "price": 31193,
+    "description": "This Modern Backpack 416 from our Accessories collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 417,
+    "name": "Luxe Scarve 417",
+    "brand": "NovaLux",
+    "price": 4893,
+    "description": "This Luxe Scarve 417 from our Accessories collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 418,
+    "name": "Premium Table 418",
+    "brand": "Apex",
+    "price": 34099,
+    "description": "This Premium Table 418 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 419,
+    "name": "Minimalist Chair 419",
+    "brand": "Zenith",
+    "price": 19668,
+    "description": "This Minimalist Chair 419 from our Furniture collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 420,
+    "name": "Premium Chair 420",
+    "brand": "NovaLux",
+    "price": 14629,
+    "description": "This Premium Chair 420 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 421,
+    "name": "Ultra Shelf 421",
+    "brand": "Apex",
+    "price": 41271,
+    "description": "This Ultra Shelf 421 from our Furniture collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 422,
+    "name": "Pro Jacket 422",
+    "brand": "Echo",
+    "price": 49175,
+    "description": "This Pro Jacket 422 from our Apparel collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 423,
+    "name": "Luxe Tripod 423",
+    "brand": "Zenith",
+    "price": 34282,
+    "description": "This Luxe Tripod 423 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 424,
+    "name": "Smart Rug 424",
+    "brand": "Swift",
+    "price": 12579,
+    "description": "This Smart Rug 424 from our Home Decor collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 425,
+    "name": "Elite Hoodie 425",
+    "brand": "Swift",
+    "price": 26759,
+    "description": "This Elite Hoodie 425 from our Apparel collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 426,
+    "name": "Luxe Chair 426",
+    "brand": "Obsidian",
+    "price": 8393,
+    "description": "This Luxe Chair 426 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 427,
+    "name": "Classic Rug 427",
+    "brand": "NovaLux",
+    "price": 40710,
+    "description": "This Classic Rug 427 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 428,
+    "name": "Elite Desk 428",
+    "brand": "Echo",
+    "price": 16733,
+    "description": "This Elite Desk 428 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 429,
+    "name": "Minimalist Mirror 429",
+    "brand": "Echo",
+    "price": 23760,
+    "description": "This Minimalist Mirror 429 from our Home Decor collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 430,
+    "name": "Modern Shelf 430",
+    "brand": "Swift",
+    "price": 42658,
+    "description": "This Modern Shelf 430 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 431,
+    "name": "Ultra Hiking Boots 431",
+    "brand": "Zenith",
+    "price": 45451,
+    "description": "This Ultra Hiking Boots 431 from our Footwear collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 432,
+    "name": "Luxe Lens 432",
+    "brand": "Forge",
+    "price": 33425,
+    "description": "This Luxe Lens 432 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 433,
+    "name": "Classic Console 433",
+    "brand": "UrbanEdge",
+    "price": 11200,
+    "description": "This Classic Console 433 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 434,
+    "name": "Modern Shelf 434",
+    "brand": "Lumina",
+    "price": 46059,
+    "description": "This Modern Shelf 434 from our Furniture collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 435,
+    "name": "Luxe Sneakers 435",
+    "brand": "Vanguard",
+    "price": 18040,
+    "description": "This Luxe Sneakers 435 from our Footwear collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 436,
+    "name": "Premium Shorts 436",
+    "brand": "Forge",
+    "price": 5300,
+    "description": "This Premium Shorts 436 from our Apparel collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 437,
+    "name": "Smart Belt 437",
+    "brand": "Apex",
+    "price": 26414,
+    "description": "This Smart Belt 437 from our Accessories collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 438,
+    "name": "Pro Vase 438",
+    "brand": "Lumina",
+    "price": 3931,
+    "description": "This Pro Vase 438 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 439,
+    "name": "Premium Candle 439",
+    "brand": "Forge",
+    "price": 14301,
+    "description": "This Premium Candle 439 from our Home Decor collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 440,
+    "name": "Classic Sofa 440",
+    "brand": "Lumina",
+    "price": 33809,
+    "description": "This Classic Sofa 440 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 441,
+    "name": "Eco-friendly Sweater 441",
+    "brand": "Echo",
+    "price": 43868,
+    "description": "This Eco-friendly Sweater 441 from our Apparel collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 442,
+    "name": "Luxe Lens 442",
+    "brand": "Lumina",
+    "price": 44560,
+    "description": "This Luxe Lens 442 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 443,
+    "name": "Luxe Chair 443",
+    "brand": "Vanguard",
+    "price": 18816,
+    "description": "This Luxe Chair 443 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 444,
+    "name": "Eco-friendly Gimbal 444",
+    "brand": "Zenith",
+    "price": 42596,
+    "description": "This Eco-friendly Gimbal 444 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 445,
+    "name": "Luxe Tripod 445",
+    "brand": "Zenith",
+    "price": 47571,
+    "description": "This Luxe Tripod 445 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 446,
+    "name": "Ultra Sweater 446",
+    "brand": "Echo",
+    "price": 18782,
+    "description": "This Ultra Sweater 446 from our Apparel collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 447,
+    "name": "Minimalist Speaker 447",
+    "brand": "Swift",
+    "price": 10688,
+    "description": "This Minimalist Speaker 447 from our Electronics collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 448,
+    "name": "Eco-friendly Camera 448",
+    "brand": "Obsidian",
+    "price": 27633,
+    "description": "This Eco-friendly Camera 448 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 449,
+    "name": "Classic Candle 449",
+    "brand": "Echo",
+    "price": 36882,
+    "description": "This Classic Candle 449 from our Home Decor collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 450,
+    "name": "Eco-friendly Sneakers 450",
+    "brand": "Apex",
+    "price": 45015,
+    "description": "This Eco-friendly Sneakers 450 from our Footwear collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 451,
+    "name": "Minimalist Console 451",
+    "brand": "Forge",
+    "price": 17292,
+    "description": "This Minimalist Console 451 from our Gadgets collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 452,
+    "name": "Elite Sunglasses 452",
+    "brand": "Zenith",
+    "price": 24952,
+    "description": "This Elite Sunglasses 452 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 453,
+    "name": "Modern Hoodie 453",
+    "brand": "Obsidian",
+    "price": 22717,
+    "description": "This Modern Hoodie 453 from our Apparel collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 454,
+    "name": "Ultra Tablet 454",
+    "brand": "Swift",
+    "price": 35540,
+    "description": "This Ultra Tablet 454 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 455,
+    "name": "Smart Formal Shoes 455",
+    "brand": "UrbanEdge",
+    "price": 49882,
+    "description": "This Smart Formal Shoes 455 from our Footwear collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 456,
+    "name": "Modern Running Shoes 456",
+    "brand": "Apex",
+    "price": 40627,
+    "description": "This Modern Running Shoes 456 from our Footwear collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500&q=80"
+  },
+  {
+    "id": 457,
+    "name": "Luxe E-reader 457",
+    "brand": "NovaLux",
+    "price": 5556,
+    "description": "This Luxe E-reader 457 from our Gadgets collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=500&q=80"
+  },
+  {
+    "id": 458,
+    "name": "Modern Mirror 458",
+    "brand": "Lumina",
+    "price": 531,
+    "description": "This Modern Mirror 458 from our Home Decor collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 459,
+    "name": "Ultra Watch 459",
+    "brand": "UrbanEdge",
+    "price": 34250,
+    "description": "This Ultra Watch 459 from our Accessories collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 460,
+    "name": "Ultra Tablet 460",
+    "brand": "UrbanEdge",
+    "price": 31018,
+    "description": "This Ultra Tablet 460 from our Electronics collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 461,
+    "name": "Modern Smartwatch 461",
+    "brand": "Apex",
+    "price": 37636,
+    "description": "This Modern Smartwatch 461 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 462,
+    "name": "Pro Hoodie 462",
+    "brand": "Lumina",
+    "price": 45384,
+    "description": "This Pro Hoodie 462 from our Apparel collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 463,
+    "name": "Ultra Slippers 463",
+    "brand": "NovaLux",
+    "price": 12104,
+    "description": "This Ultra Slippers 463 from our Footwear collection offers unparalleled quality and style. Perfect for ultra users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&q=80"
+  },
+  {
+    "id": 464,
+    "name": "Elite Tablet 464",
+    "brand": "NovaLux",
+    "price": 15625,
+    "description": "This Elite Tablet 464 from our Electronics collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 465,
+    "name": "Smart Table 465",
+    "brand": "Zenith",
+    "price": 20778,
+    "description": "This Smart Table 465 from our Furniture collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 466,
+    "name": "Elite Sunglasses 466",
+    "brand": "Apex",
+    "price": 29750,
+    "description": "This Elite Sunglasses 466 from our Accessories collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 467,
+    "name": "Eco-friendly Speaker 467",
+    "brand": "UrbanEdge",
+    "price": 17128,
+    "description": "This Eco-friendly Speaker 467 from our Electronics collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 468,
+    "name": "Luxe Shelf 468",
+    "brand": "Echo",
+    "price": 31033,
+    "description": "This Luxe Shelf 468 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 469,
+    "name": "Premium Canvas Shoes 469",
+    "brand": "Apex",
+    "price": 35690,
+    "description": "This Premium Canvas Shoes 469 from our Footwear collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c2744?w=500&q=80"
+  },
+  {
+    "id": 470,
+    "name": "Luxe VR Headset 470",
+    "brand": "Vanguard",
+    "price": 19588,
+    "description": "This Luxe VR Headset 470 from our Gadgets collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 471,
+    "name": "Premium Tablet 471",
+    "brand": "UrbanEdge",
+    "price": 26455,
+    "description": "This Premium Tablet 471 from our Electronics collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 472,
+    "name": "Premium Console 472",
+    "brand": "Swift",
+    "price": 18210,
+    "description": "This Premium Console 472 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 473,
+    "name": "Luxe Mirror 473",
+    "brand": "Forge",
+    "price": 1767,
+    "description": "This Luxe Mirror 473 from our Home Decor collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 474,
+    "name": "Eco-friendly Camera 474",
+    "brand": "Swift",
+    "price": 41094,
+    "description": "This Eco-friendly Camera 474 from our Photography collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 475,
+    "name": "Elite Console 475",
+    "brand": "Vanguard",
+    "price": 21154,
+    "description": "This Elite Console 475 from our Gadgets collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&q=80"
+  },
+  {
+    "id": 476,
+    "name": "Modern Slippers 476",
+    "brand": "Vanguard",
+    "price": 16110,
+    "description": "This Modern Slippers 476 from our Footwear collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1512374382149-4332cba75c83?w=500&q=80"
+  },
+  {
+    "id": 477,
+    "name": "Pro Camera 477",
+    "brand": "Swift",
+    "price": 30319,
+    "description": "This Pro Camera 477 from our Photography collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 478,
+    "name": "Classic Smartwatch 478",
+    "brand": "Obsidian",
+    "price": 26279,
+    "description": "This Classic Smartwatch 478 from our Electronics collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 479,
+    "name": "Classic Lamp 479",
+    "brand": "Obsidian",
+    "price": 48298,
+    "description": "This Classic Lamp 479 from our Furniture collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 480,
+    "name": "Elite Projector 480",
+    "brand": "Vanguard",
+    "price": 30073,
+    "description": "This Elite Projector 480 from our Gadgets collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 481,
+    "name": "Eco-friendly Projector 481",
+    "brand": "Zenith",
+    "price": 16253,
+    "description": "This Eco-friendly Projector 481 from our Gadgets collection offers unparalleled quality and style. Perfect for eco-friendly users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&q=80"
+  },
+  {
+    "id": 482,
+    "name": "Pro Sunglasses 482",
+    "brand": "Vanguard",
+    "price": 7453,
+    "description": "This Pro Sunglasses 482 from our Accessories collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  },
+  {
+    "id": 483,
+    "name": "Classic E-reader 483",
+    "brand": "Forge",
+    "price": 37496,
+    "description": "This Classic E-reader 483 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1461747511725-bf58303dfaec?w=500&q=80"
+  },
+  {
+    "id": 484,
+    "name": "Premium E-reader 484",
+    "brand": "Echo",
+    "price": 32779,
+    "description": "This Premium E-reader 484 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=500&q=80"
+  },
+  {
+    "id": 485,
+    "name": "Smart Tripod 485",
+    "brand": "Lumina",
+    "price": 29992,
+    "description": "This Smart Tripod 485 from our Photography collection offers unparalleled quality and style. Perfect for smart users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 486,
+    "name": "Luxe Boots 486",
+    "brand": "Lumina",
+    "price": 45537,
+    "description": "This Luxe Boots 486 from our Footwear collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Footwear",
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=500&q=80"
+  },
+  {
+    "id": 487,
+    "name": "Premium Console 487",
+    "brand": "Swift",
+    "price": 10476,
+    "description": "This Premium Console 487 from our Gadgets collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80"
+  },
+  {
+    "id": 488,
+    "name": "Classic Drone 488",
+    "brand": "Vanguard",
+    "price": 8278,
+    "description": "This Classic Drone 488 from our Gadgets collection offers unparalleled quality and style. Perfect for classic users who appreciate modern design.",
+    "category": "Gadgets",
+    "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=500&q=80"
+  },
+  {
+    "id": 489,
+    "name": "Elite Sofa 489",
+    "brand": "Forge",
+    "price": 46135,
+    "description": "This Elite Sofa 489 from our Furniture collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 490,
+    "name": "Luxe Shelf 490",
+    "brand": "UrbanEdge",
+    "price": 38876,
+    "description": "This Luxe Shelf 490 from our Furniture collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 491,
+    "name": "Premium Table 491",
+    "brand": "UrbanEdge",
+    "price": 2412,
+    "description": "This Premium Table 491 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 492,
+    "name": "Modern Tablet 492",
+    "brand": "Echo",
+    "price": 37836,
+    "description": "This Modern Tablet 492 from our Electronics collection offers unparalleled quality and style. Perfect for modern users who appreciate modern design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 493,
+    "name": "Minimalist Camera 493",
+    "brand": "Vanguard",
+    "price": 32282,
+    "description": "This Minimalist Camera 493 from our Photography collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 494,
+    "name": "Premium Shelf 494",
+    "brand": "Apex",
+    "price": 23963,
+    "description": "This Premium Shelf 494 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 495,
+    "name": "Luxe Flash 495",
+    "brand": "Forge",
+    "price": 21278,
+    "description": "This Luxe Flash 495 from our Photography collection offers unparalleled quality and style. Perfect for luxe users who appreciate modern design.",
+    "category": "Photography",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&q=80"
+  },
+  {
+    "id": 496,
+    "name": "Premium Desk 496",
+    "brand": "Echo",
+    "price": 35937,
+    "description": "This Premium Desk 496 from our Furniture collection offers unparalleled quality and style. Perfect for premium users who appreciate modern design.",
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80"
+  },
+  {
+    "id": 497,
+    "name": "Elite Painting 497",
+    "brand": "Swift",
+    "price": 34594,
+    "description": "This Elite Painting 497 from our Home Decor collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 498,
+    "name": "Elite T-Shirt 498",
+    "brand": "Vanguard",
+    "price": 47655,
+    "description": "This Elite T-Shirt 498 from our Apparel collection offers unparalleled quality and style. Perfect for elite users who appreciate modern design.",
+    "category": "Apparel",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500&q=80"
+  },
+  {
+    "id": 499,
+    "name": "Pro Painting 499",
+    "brand": "Obsidian",
+    "price": 19811,
+    "description": "This Pro Painting 499 from our Home Decor collection offers unparalleled quality and style. Perfect for pro users who appreciate modern design.",
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&q=80"
+  },
+  {
+    "id": 500,
+    "name": "Minimalist Wallet 500",
+    "brand": "UrbanEdge",
+    "price": 16622,
+    "description": "This Minimalist Wallet 500 from our Accessories collection offers unparalleled quality and style. Perfect for minimalist users who appreciate modern design.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+  }
+]
