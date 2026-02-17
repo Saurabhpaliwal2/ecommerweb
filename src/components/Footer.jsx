@@ -3,9 +3,9 @@ import { Facebook, Twitter, Instagram, Mail } from 'lucide-react';
 
 const Footer = () => {
     return (
-        <footer style={{ background: '#0f172a', color: 'white', padding: '4rem 0 2rem 0', marginTop: '4rem' }}>
+        <footer style={{ background: '#0f172a', color: 'white', padding: '3rem 0 2rem 0', marginTop: '4rem' }} className="lg:py-16">
             <div className="container">
-                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '3rem', marginBottom: '3rem' }}>
+                <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '2rem', marginBottom: '3rem' }} className="lg:gap-12">
                     <div>
                         <h3 style={{ fontSize: '1.5rem', fontWeight: 800, color: 'var(--primary)', marginBottom: '1.5rem' }}>EcommersWeb</h3>
                         <p style={{ color: '#94a3b8', lineHeight: '1.6' }}>The best place to find premium electronics, apparel, and lifestyle accessories. Quality first, always.</p>

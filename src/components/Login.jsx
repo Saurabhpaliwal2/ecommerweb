@@ -34,10 +34,10 @@ const Login = ({ onClose }) => {
             background: 'linear-gradient(135deg, #6366f1 0%, #a855f7 100%)',
             padding: '2rem'
         }}>
-            <div className="glass-morphism animate-fade-in" style={{
+            <div className="glass-morphism animate-fade-in sm:p-12" style={{
                 width: '100%',
                 maxWidth: '450px',
-                padding: '3rem',
+                padding: '1.5rem',
                 background: 'rgba(255, 255, 255, 0.9)',
                 borderRadius: '1.5rem',
                 boxShadow: '0 25px 50px -12px rgba(0, 0, 0, 0.25)'

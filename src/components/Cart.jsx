@@ -18,7 +18,7 @@ const Cart = ({ isOpen, onClose }) => {
             background: 'rgba(0, 0, 0, 0.4)',
             backdropFilter: 'blur(4px)'
         }}>
-            <div className="animate-fade-in" style={{
+            <div className="animate-fade-in sm:max-w-md" style={{
                 width: '100%',
                 maxWidth: '450px',
                 background: 'white',

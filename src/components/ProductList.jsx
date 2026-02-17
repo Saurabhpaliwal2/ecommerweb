@@ -18,11 +18,7 @@ const ProductSection = ({ title, products, onSelectProduct, color }) => {
                 <h3 style={{ fontSize: '1.75rem', fontWeight: 800, color: '#1e293b' }}>{title}</h3>
                 <span style={{ fontSize: '0.875rem', fontWeight: 600, color: '#64748b' }}>{products.length} Products</span>
             </div>
-            <div className="product-grid" style={{
-                display: 'grid',
-                gridTemplateColumns: 'repeat(auto-fill, minmax(280px, 1fr))',
-                gap: '2rem'
-            }}>
+            <div className="product-grid">
                 {products.slice(0, 4).map((product) => (
                     <ProductCard
                         key={product.id}
@@ -108,29 +104,29 @@ const ProductList = ({ onSelectProduct }) => {
             </div>
 
             {/* Filter Controls - Sticky for better experience */}
-            <div className="glass-morphism" style={{
+            <div className="glass-morphism lg:p-6 lg:mb-16 lg:gap-6" style={{
                 position: 'sticky',
-                top: '90px',
+                top: '72px',
                 zIndex: 40,
-                padding: '1.5rem',
+                padding: '1rem',
                 borderRadius: '1.5rem',
-                marginBottom: '4rem',
+                marginBottom: '2rem',
                 display: 'flex',
                 flexDirection: 'column',
-                gap: '1.5rem',
+                gap: '1rem',
                 boxShadow: '0 10px 15px -3px rgba(0, 0, 0, 0.05)'
             }}>
                 <div>
-                    <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0.75rem' }}>
+                    <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0.5rem' }} className="lg:gap-3">
                         {categories.map(cat => (
                             <button
                                 key={cat}
                                 onClick={() => handleCategoryChange(cat)}
-                                className={`btn ${selectedCategory === cat ? 'btn-primary' : 'btn-ghost'}`}
+                                className={`btn ${selectedCategory === cat ? 'btn-primary' : 'btn-ghost'} lg:px-5 lg:py-2 lg:text-sm`}
                                 style={{
                                     borderRadius: '2rem',
-                                    padding: '0.5rem 1.25rem',
-                                    fontSize: '0.875rem',
+                                    padding: '0.4rem 1rem',
+                                    fontSize: '0.75rem',
                                     fontWeight: 700,
                                     border: selectedCategory === cat ? 'none' : '1px solid #e2e8f0'
                                 }}
@@ -141,7 +137,7 @@ const ProductList = ({ onSelectProduct }) => {
                     </div>
                 </div>
 
-                <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0.5rem', borderTop: '1px solid #f1f5f9', paddingTop: '1rem' }}>
+                <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '0.4rem', borderTop: '1px solid #f1f5f9', paddingTop: '1rem' }} className="lg:gap-2">
                     {brands.map(brand => (
                         <button
                             key={brand}

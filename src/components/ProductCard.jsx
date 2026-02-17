@@ -18,7 +18,8 @@ const ProductCard = ({ product, onSelect }) => {
         }}>
             <div
                 onClick={() => onSelect(product)}
-                style={{ position: 'relative', height: '240px', overflow: 'hidden', cursor: 'pointer' }}
+                style={{ position: 'relative', height: '200px', overflow: 'hidden', cursor: 'pointer' }}
+                className="lg:h-60"
             >
                 <img
                     src={product.image}
